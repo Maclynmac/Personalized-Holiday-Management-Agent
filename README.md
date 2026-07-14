@@ -1,4 +1,4 @@
-<strong> AI-Powered Personalized Holiday Management Agent </strong>
+<strong>Personalized Holiday Management AI Agent</strong>
 
 <strong>Features:</strong>
 
